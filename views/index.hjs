@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
 
 
-   <title>User Experience</title>
+   <title>Health & Beauty</title>
 
     <link rel='stylesheet' href='/stylesheets/grayscale.css' />
 
@@ -26,7 +26,7 @@
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -59,7 +59,7 @@
 
     <!-- Half Page Image Background Carousel Header -->
     <header id="myCarousel" class="carousel slide">
-        
+
         <!-- Wrapper for Slides -->
         <div class="carousel-inner">
             <div class="item active">
@@ -80,8 +80,8 @@
             <!-- Page Header -->
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">Page Heading
-                        <small>Secondary Text</small>
+                    <h1 class="page-header">Green Life Solution
+                        <small>"Health & Beauty"</small>
                     </h1>
                 </div>
             </div>
@@ -90,29 +90,29 @@
             <!-- Projects Row -->
             <div class="row">
                 <div class="col-md-4 portfolio-item">
-                    <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <a href="http://foodessentials.mynsp.com/">
+                        <img class="img-responsive" src="https://c1.staticflickr.com/5/4252/34063399433_f64360cb14_o.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="http://foodessentials.mynsp.com/">Natures Sunshine</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
-                    <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <a href="https://esalina.isagenix.com/">
+                        <img class="img-responsive" src="https://c1.staticflickr.com/5/4196/34030715914_853d391273_o.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="https://esalina.isagenix.com/">Isagenix</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
-                    <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <a href="https://www.pinkzebrahome.com/ewilliams">
+                        <img class="img-responsive" src="https://c1.staticflickr.com/5/4221/34030717044_8598ed6307_o.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="https://www.pinkzebrahome.com/ewilliams">Pink Zebra</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                 </div>
@@ -122,11 +122,11 @@
             <!-- Projects Row -->
             <div class="row">
                 <div class="col-md-4 portfolio-item">
-                    <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <a href="https://seneweb.senegence.com/us">
+                        <img class="img-responsive" src="https://c1.staticflickr.com/5/4269/34711607562_4211367d6b_o.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="https://seneweb.senegence.com/us">Project Name</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
                 </div>
